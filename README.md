@@ -7,6 +7,8 @@ A smooth scrolling library that implements a snap scroll behavior using GSAP and
 - Fullscreen scrolling sections
 - Easily configurable scroll duration and easing
 
+[Click here to visit the live website](https://smooth-controlled-snap-scroll.vercel.app/)
+
 ## Installation
 
 ```bash
