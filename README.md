@@ -1,12 +1,13 @@
-# Smooth Controlled Snap Scroll 🚀
+# Smooth Controlled Snap Scroll
 
-A React component for smooth and controlled snap scrolling using GSAP.
+A smooth scrolling library that implements a snap scroll behavior using GSAP and React. This project allows for a seamless scroll experience with controlled snap points.
 
 ## Features
-✅ Scrolls smoothly between sections  
-✅ Uses GSAP for controlled animations  
-✅ Easy integration into React projects  
+- Smooth snap scroll with GSAP and React
+- Fullscreen scrolling sections
+- Easily configurable scroll duration and easing
 
 ## Installation
-```sh
+
+```bash
 npm install gsap
